@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm David López</h1>
 <h3 align="center">A passionate Game & Software Dev from Spain</h3>
 
