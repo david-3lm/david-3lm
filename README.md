@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David López</h1>
 <h3 align="center">A passionate Game & Software Dev from Spain</h3>
 
-- 🔭 I’m currently working on [42 Madrid](https://github.com/david-3lm/42_adventure)
-
 - 🌱 I’m currently learning **At 42Madrid**
+
+- 🔭 I’m currently working on [My projects at 42 Madrid](https://github.com/david-3lm/42_adventure)
 
 - 👨‍💻 All of my projects are available at [https://david-3lm.github.io/](https://david-3lm.github.io/)
 
